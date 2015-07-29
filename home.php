@@ -5,7 +5,7 @@
 	query_posts($query_string . "post_type=rs-front-page&post_status=publish&posts_per_page=10" . '&order=ASC');
 	if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
-	<section class="row home-panel clearfix" id="<?php echo $post->post_name;?>">
+	<section class="home-panel clearfix" id="<?php echo $post->post_name;?>">
 
 		<article>
 
