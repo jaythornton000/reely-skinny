@@ -1,0 +1,6 @@
+@media all and (max-width: 40rem) {
+	.content-section {
+		margin: 60px 1rem !important;
+		width: inherit;
+	}
+}
