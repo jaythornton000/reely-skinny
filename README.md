@@ -14,3 +14,6 @@ Reely Skinny is a living project and I welcome any input or suggestion on stream
 
 #### Update 7/27/2015
 As with most ongoing product development cycles, we go dark from time to time. Learn new things. Make unposted updates, and finally say "scrap the whole thing and start all over." This is what we've done. What you've got here is a brand new push. I killed the old repository, deleted all other local copies, and started new. Stay tuned for more updates and an ever more complicated but higher functioning product. ~jt.
+
+#### Update 10/29/2015
+Added platform specific font colors for fi-social icons and shortcode functionality to widgets.

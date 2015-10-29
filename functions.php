@@ -210,3 +210,5 @@ $comments_args = array(
 );
 
 comment_form($comments_args);
+
+add_filter('widget_text', 'do_shortcode');
